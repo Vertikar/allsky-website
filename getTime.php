@@ -1,4 +1,4 @@
 <?php
-	date_default_timezone_set('America/Whitehorse');
+	date_default_timezone_set('Australia/Melbourne');
 	return time();
 ?>
